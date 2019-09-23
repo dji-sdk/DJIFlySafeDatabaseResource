@@ -11,7 +11,7 @@ For more details of the usage, please check the [DJI Mobile SDK iOS](https://git
 DJIWidget is available through [CocoaPods](http://cocoapods.org). To install it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'DJIFlySafeDatabaseResource', '~> 1.0'
+pod 'DJIFlySafeDatabaseResource', '~> 01.00.01.17'
 ```
 
 > Note: Remember to add `use_frameworks!` in the pod file to use DJIFlySafeDatabaseResource as a dynamic framework in Swift project.
