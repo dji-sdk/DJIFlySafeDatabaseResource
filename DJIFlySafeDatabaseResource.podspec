@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "DJIFlySafeDatabaseResource"
-  s.version      = "01.00.01.17"
+  s.version      = "01.00.01.18"
   s.summary      = "DJIFlySafeDatabaseResource is a database resource for SDK Registration"
   s.description  = "This is the moblie sdk fly safe dababase resource. Embed it to your project to use flyzone module."
   s.homepage     = "https://github.com/dji-sdk/DJIFlySafeDatabaseResource"
